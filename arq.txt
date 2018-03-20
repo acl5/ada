@@ -1,0 +1,3 @@
+A description of the project
+
+This could become the README.md
